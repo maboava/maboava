@@ -1,7 +1,5 @@
 - 👋 Hello world! I’m @maboava
-- 👀 I’m interested in learn about new technologies and learn to use them to help solve problems and present solutions.
-- 🌱 I’m currently learning Ruby on Rails, JS, Node JS, Assembly, PHP, Python and SQL Server.
-- 💞️ I’m looking to collaborate on with those who are learning something I have already programmed and be inspired by my contributions.
-- 📫 You can reach me at matheusboava12@gmail.com.
-
-
+- 👀 I’m interested in learning about new technologies and how I can use them to solve problems and provide innovative solutions.
+- 🌱 Currently, I'm improving my skills in various programming languages, such as Ruby on Rails, JavaScript, Node.js, Assembly, PHP, Python, and SQL Server.
+- 💞️ I'm eager to collaborate with others who are also learning or already have experience in any of the languages I master. I want to be inspired by the community's contributions and share my own knowledge.
+- 📫 You can reach me at matheusboava12@gmail.com. I'm always open to new learning and collaboration opportunities!
